@@ -1,0 +1,27 @@
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Net.Http.Formatting.dll
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Net.Http.Formatting.xml
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Programi\projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Shizo\Desktop\FAX 2017\RUAP\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
